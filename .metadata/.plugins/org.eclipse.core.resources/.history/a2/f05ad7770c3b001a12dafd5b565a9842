@@ -1,0 +1,16 @@
+package main;
+
+public class main {
+
+	public static void main(String[] args) {
+		// factorial de un numero
+		//por ejemplo 4! es el resultado de multiplicar
+		//1x2x3x4
+		
+		int numero=5,a=1;
+		for (int i = 1; i<numero; i++,a=i*a,System.out.println(a));	
+	    
+
+	}
+
+}

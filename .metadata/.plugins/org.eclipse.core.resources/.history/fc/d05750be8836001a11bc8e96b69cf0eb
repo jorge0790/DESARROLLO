@@ -1,0 +1,16 @@
+package main;
+
+public class Cadenas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		/*cuando se declara una variable de tipo String se le asigna un valor
+		 *que puede ser una cadena */
+		String mensaje;
+		mensaje="hola este es un string }3434#$$";
+	    System.out.println(mensaje);
+
+	}
+
+}

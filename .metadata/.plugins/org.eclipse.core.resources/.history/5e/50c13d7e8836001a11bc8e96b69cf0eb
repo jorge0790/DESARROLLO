@@ -1,0 +1,13 @@
+package main;
+
+public class Cadenas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String mensaje;
+		mensaje="hola este es un string";
+	    System.out.println(mensaje);
+
+	}
+
+}
