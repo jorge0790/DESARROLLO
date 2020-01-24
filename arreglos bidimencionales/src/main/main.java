@@ -27,9 +27,21 @@ public class main {
 		System.out.println(matriz[0][0]);
 		System.out.println(matriz[0][1]);
 		System.out.println(matriz[0][2]);
+		
 		System.out.println(matriz[1][0]);
 		System.out.println(matriz[1][1]);
 		System.out.println(matriz[1][2]);
+		
+		System.out.println(matriz[2][0]);
+		System.out.println(matriz[2][1]);
+		System.out.println(matriz[2][2]);
+		
+		System.out.println(matriz[3][0]);
+		System.out.println(matriz[3][1]);
+		System.out.println(matriz[3][2]);
+		
+		
+		
 		
 		
 		
